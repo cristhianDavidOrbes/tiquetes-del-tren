@@ -1,0 +1,20 @@
+#titulo{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(110, 112, 111);
+    text-align: center;
+    color:white;
+    padding: 15px 30px 20px 15px ;
+    font-size: 20px ;
+}
+.texto{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.pasto{
+    margin: 0 auto;
+    
+}
+.pie{
+    text-align: center;
+    background-color: rgb(74, 75, 75);
+}
